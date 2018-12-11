@@ -1,0 +1,3 @@
+nc 168.235.68.193 5742 > riffwave.wav
+
+.05 sec per char
